@@ -1,0 +1,4 @@
+CREATE VIEW temp_operation AS
+SELECT *
+FROM operation 
+

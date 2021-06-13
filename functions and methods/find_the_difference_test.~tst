@@ -1,0 +1,19 @@
+PL/SQL Developer Test script 3.0
+8
+-- Created on 13/06/2021 by EITHAN 
+declare 
+  -- Local variables here
+  i integer;
+begin
+  -- Test statements here
+  :result :=find_the_difference(op_id => :op_id);
+end;
+2
+result
+0
+3
+op_id
+1
+1
+3
+0

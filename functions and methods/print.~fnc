@@ -1,0 +1,7 @@
+create or replace function print(text) return varchar2 is
+  FunctionResult varchar2;
+begin
+  
+  return(FunctionResult);
+end print;
+

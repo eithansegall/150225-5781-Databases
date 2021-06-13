@@ -1,0 +1,3 @@
+UPDATE operation
+SET commander = 1
+/*DBMS_RANDOM.VALUE(1,20000)*/

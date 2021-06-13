@@ -1,0 +1,7 @@
+create or replace function get_budjet(ID) return integer is
+  FunctionResult integer;
+begin
+  
+  return(FunctionResult);
+end get_budjet;
+/
